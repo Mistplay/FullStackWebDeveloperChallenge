@@ -13,7 +13,7 @@ The basic search engine should be capable of the following three operations.
 queryable.
 3. Given a single word `w`, remove the most similar word to `w` in the corpus from further search results. 
 ### User Interface
-The user interface should be a browser-based application developed using your JavaScript web framework of choice. It should support the three aforementioned operations. How this is done is completely up to you!
+The user interface should be a browser-based application developed using your JavaScript web framework of choice. It should support the three aforementioned operations. How this is done is completely up to you. Use your creativity and imagination to create a UI that will set your submission apart!
 
 ### REST API
 The REST API can be implemented using whatever language and frameworks of your choosing. Again, like the UI, it needs to support the three operations listed above. How you choose to accomplish this task is up to you.
