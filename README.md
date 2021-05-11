@@ -22,3 +22,5 @@ The REST API can be implemented using whatever language and frameworks of your c
 To submit your challenge, fork this repository and provide the link to your forked repository.
 You should also update this README to include instructions on how to run your search engine.
 Tests are not mandatory but will be considered bonus points if you provide them.
+
+This challenge should only take a few hours at most. It is not expected to be a production ready application and thus will not be evaluated in such a context.
