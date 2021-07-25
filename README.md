@@ -9,9 +9,9 @@ Your submission will be evaluated for conforming to the specifications outlined 
 The basic search engine should be capable of the following three operations.
 
 1. Given a query consisting of a single word `w`, display the 3 most similar words in the search corpus according to some similarity metric of your choosing. You should return results even if `w` is not in the corpus.
-2. Given a single word `w`, update the search corpus with `w`. The new word `w` should immediately be 
+2. Given a single word `x`, update the search corpus with `x`. The new word `x` should immediately be 
 queryable.
-3. Given a single word `w`, remove **_the most similar word_** to `w` in the corpus from further search results. 
+3. Given a single word `y`, remove **_the most similar word_** to `y` in the corpus from further search results. 
 ### User Interface
 The user interface should be a browser-based application developed using your JavaScript web framework of choice. It should support the three aforementioned operations. How this is done is completely up to you. Use your creativity and imagination to create a UI that will set your submission apart!
 
